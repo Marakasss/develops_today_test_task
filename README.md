@@ -11,7 +11,9 @@ This project includes three main components:
 
 ## Setup & Installation
 
-### 1. Clone the repository
+---
+
+### Clone repo
 
 ````bash
 git clone https://github.com/Marakasss/develops_today_test_task.git
@@ -28,7 +30,7 @@ npm install
 ```bash
 npm run storybook
 
-Storybook will be available at:
+Storybook will be available at: http://localhost:6006/
 
 
 ## Screenshots
@@ -36,40 +38,40 @@ Storybook will be available at:
 ### SidebarMenu Component
 
 **Sidebar opened state**
-![Menu opened](./screenshots/menu_opened.png)
+![Menu opened](/screenshots/menu_opened.png)
 
 **Sidebar opened with submenu state**
-![Menu opened with submenu](./screenshots/menu_opened_with_submenu.png)
+![Menu opened with submenu](/screenshots/menu_opened_with_submenu.png)
 
 **Sidebar opened with custom property**
-![Menu opened with custom prop "MenuItemList"](./screenshots/custom_menu_with_prop.png)
+![Menu opened with custom prop "MenuItemList"](/screenshots/custom_menu_with_prop.png)
 
 ### Input Component
 
 **Input with hidden pass **
-![Input with toggle bth and hidden pass](./screenshots/input_hidden.png)
+![Input with toggle bth and hidden pass](/screenshots/input_hidden.png)
 
 **Input with visible pass **
-![Input with toggle bth and visible pass](./screenshots/input_visible.png)
+![Input with toggle bth and visible pass](/screenshots/input_visible.png)
 
 **Input with text type **
-![Input with text type](./screenshots/text_type.png)
+![Input with text type](/screenshots/text_type.png)
 
 **Input with text type and clear btn**
-![Input with text type and clear btn](./screenshots/text_clear.png)
+![Input with text type and clear btn](/screenshots/text_clear.png)
 
 **Input with pwd type, toggle and clear btn**
-![Input with password type, toggle and clear btn](./screenshots/pwd_and_clear.png)
+![Input with password type, toggle and clear btn](/screenshots/pwd_and_clear.png)
 
 ### Toast Component
 
 **Toast with success type**
-![Toast with success type](./screenshots/success.png)
+![Toast with success type](/screenshots/success.png)
 
 **Toast with error type**
-![Toast with error type](./screenshots/error.png)
+![Toast with error type](/screenshots/error.png)
 
 **Toast with info type**
-![Toast with info type](./screenshots/info.png)
+![Toast with info type](/screenshots/info.png)
 
 ````
