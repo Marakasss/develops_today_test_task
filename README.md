@@ -69,9 +69,9 @@ Storybook will be available at: http://localhost:6006/
 ![Toast with success type](/screenshots/success.png)
 
 **Toast with error type**
-![Toast with error type](/screenshots/error.png)
+![Toast with error type](screenshots/error.png)
 
 **Toast with info type**
-![Toast with info type](/screenshots/info.png)
+![Toast with info type](screenshots/info.png)
 
 ````
