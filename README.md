@@ -7,31 +7,22 @@ This project includes three main components:
 - **Input** — a versatile input with password toggle and clear button
 - **Toast** — a notification component with success / error / info types
 
----
-
 ## Setup & Installation
-
----
 
 ### Clone repo
 
-````bash
 git clone https://github.com/Marakasss/develops_today_test_task.git
 cd develops_today_test_task
 
-
 ### 2.Install dependencies
 
-```bash
 npm install
 
 ### 3. Run Storybook
 
-```bash
 npm run storybook
 
 Storybook will be available at: http://localhost:6006/
-
 
 ## Screenshots
 
@@ -73,5 +64,3 @@ Storybook will be available at: http://localhost:6006/
 
 **Toast with info type**
 ![Toast with info type](/screenshots/info.png)
-
-````
